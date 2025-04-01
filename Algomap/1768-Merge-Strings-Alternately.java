@@ -18,5 +18,5 @@ class Solution {
         }
         merged += word1.substring(i) + word2.substring(i);
         return merged;
-    }
+    }   
 }
